@@ -1,5 +1,8 @@
 package com.send2abhishek.spring.springbootbasics;
 
+import org.springframework.stereotype.Component;
+
+
 public class QuickSort implements SearchAlog {
 
 	@Override

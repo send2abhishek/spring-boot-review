@@ -1,5 +1,8 @@
 package com.send2abhishek.spring.springbootbasics;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class BubbleSort implements SearchAlog {
 
 	@Override
